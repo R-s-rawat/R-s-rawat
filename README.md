@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @R-s-rawat
+- 👋 Hi, I’m Rohit rawat
 - 👀 I’m interested in Developing Web Projects
 - 🌱 I’m currently learning JS
 
