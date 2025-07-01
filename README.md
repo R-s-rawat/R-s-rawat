@@ -3,5 +3,5 @@
 - 🌱 I’m a BCA under-graduate.
 
 <!---
- ✨ I want become a programmer with logic.  ✨ 
+ ✨ I want to become a programmer with logic.  ✨ 
 --->
