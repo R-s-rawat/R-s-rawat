@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Rohit rawat.
-- 👀 I’ do programming from designing, coding(mostly in interpreted programming languages), upto maintaining them.
-- 🌱 I’m a BCA Graduate.
+# Hi there, I am Rohit 🙋🏽‍♂️
+👀 I’ do programming from designing, coding(mostly in interpreted programming languages), upto maintaining them. 🌱 I’m a BCA Graduate.
 
 #### web projects
 ![social media - chatting](https://github.com/R-s-rawat/Social_media_app--chatting)
