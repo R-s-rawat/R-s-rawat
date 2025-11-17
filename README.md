@@ -1,5 +1,5 @@
 # Hi there, I am Rohit 🙋🏽‍♂️
-👀 I’ do programming from designing, coding(mostly in interpreted programming languages), upto maintaining them. 🌱 I’m a BCA Graduate.
+👀 I’ do programming from designing, coding(mostly in interpreted programming languages), upto maintaining them with all fundamentals of software architecture. 🌱 I’m a BCA Graduate.
 
 ## My Skills 
 **Languages**
